@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-# AutoST
-=======
-The is official implementation of AutoST.
->>>>>>> origin/master
+The is the official implementation of AutoST.
